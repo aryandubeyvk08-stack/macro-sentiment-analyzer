@@ -67,7 +67,7 @@ macro-sentiment-analyzer/
 
 ```bash
 # 1. Clone and enter
-git clone https://github.com/<your-username>/macro-sentiment-analyzer.git
+git clone https://github.com/<aryandubeyvk08-stack>/macro-sentiment-analyzer.git
 cd macro-sentiment-analyzer
 
 # 2. Create a virtual environment
@@ -153,7 +153,7 @@ Python · HuggingFace Transformers (FinBERT) · PyTorch · pandas / NumPy / SciP
 
 ## License
 
-MIT — see [`LICENSE`](LICENSE). Update the copyright line with your name before publishing.
+MIT — see [`LICENSE`](LICENSE).
 
 > **Disclaimer:** research/educational project only. Nothing here is investment advice.
 Developer --> Aryan Vijay Dubey 
