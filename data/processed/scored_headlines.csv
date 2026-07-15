@@ -1,0 +1,109 @@
+date,headline,source,asset,prob_positive,prob_negative,prob_neutral,label,sentiment_score
+2023-02-01,Fed raises rates by 25 basis points and signals more hikes ahead,sample,bonds,0.7297216653823853,0.1063334047794342,0.16394497454166412,positive,0.623388260602951
+2023-02-01,Fed raises rates by 25 basis points and signals more hikes ahead,sample,gold,0.7297216653823853,0.1063334047794342,0.16394497454166412,positive,0.623388260602951
+2023-02-01,Powell says disinflation has begun but job is not done,sample,bonds,0.05457061156630516,0.5460032224655151,0.39942625164985657,negative,-0.49143261089921
+2023-02-01,Powell says disinflation has begun but job is not done,sample,gold,0.05457061156630516,0.5460032224655151,0.39942625164985657,negative,-0.49143261089921
+2023-02-14,US CPI comes in hotter than expected keeping inflation fears alive,sample,bonds,0.18349124491214752,0.7750149369239807,0.041493844240903854,negative,-0.5915236920118332
+2023-02-14,US CPI comes in hotter than expected keeping inflation fears alive,sample,gold,0.18349124491214752,0.7750149369239807,0.041493844240903854,negative,-0.5915236920118332
+2023-02-14,Sticky inflation print revives bets on more Fed tightening,sample,bonds,0.3509506285190582,0.4560186564922333,0.19303075969219208,negative,-0.10506802797317505
+2023-02-14,Sticky inflation print revives bets on more Fed tightening,sample,gold,0.3509506285190582,0.4560186564922333,0.19303075969219208,negative,-0.10506802797317505
+2023-03-08,OPEC+ signals it will hold output steady despite demand worries,sample,crude,0.5429259538650513,0.25902092456817627,0.19805318117141724,positive,0.283905029296875
+2023-03-22,Fed hikes rates again but hints pause may be near amid banking stress,sample,bonds,0.21526283025741577,0.5809120535850525,0.20382508635520935,negative,-0.3656492233276367
+2023-03-22,Fed hikes rates again but hints pause may be near amid banking stress,sample,gold,0.21526283025741577,0.5809120535850525,0.20382508635520935,negative,-0.3656492233276367
+2023-03-22,Powell strikes cautious tone as banking turmoil clouds outlook,sample,bonds,0.21831537783145905,0.3834605813026428,0.3982240557670593,neutral,-0.16514520347118378
+2023-03-22,Powell strikes cautious tone as banking turmoil clouds outlook,sample,gold,0.21831537783145905,0.3834605813026428,0.3982240557670593,neutral,-0.16514520347118378
+2023-04-02,OPEC+ shocks market with surprise output cut of over one million barrels,sample,crude,0.0472063347697258,0.9117787480354309,0.04101487249135971,negative,-0.8645724132657051
+2023-04-12,Cooler US inflation data lifts hopes the Fed is nearly done,sample,bonds,0.47755908966064453,0.32854413986206055,0.19389678537845612,positive,0.14901494979858398
+2023-04-12,Cooler US inflation data lifts hopes the Fed is nearly done,sample,gold,0.47755908966064453,0.32854413986206055,0.19389678537845612,positive,0.14901494979858398
+2023-05-03,Federal Reserve delivers another quarter point hike as expected,sample,bonds,0.7541142702102661,0.07209257781505585,0.17379312217235565,positive,0.6820216923952103
+2023-05-03,Federal Reserve delivers another quarter point hike as expected,sample,gold,0.7541142702102661,0.07209257781505585,0.17379312217235565,positive,0.6820216923952103
+2023-05-03,Powell leaves door open to a pause after latest rate increase,sample,bonds,0.3993551433086395,0.20162732899188995,0.3990175724029541,positive,0.19772781431674957
+2023-05-03,Powell leaves door open to a pause after latest rate increase,sample,gold,0.3993551433086395,0.20162732899188995,0.3990175724029541,positive,0.19772781431674957
+2023-05-10,US consumer prices ease slightly offering relief on inflation,sample,bonds,0.6927149295806885,0.22008119523525238,0.08720393478870392,positive,0.4726337343454361
+2023-05-10,US consumer prices ease slightly offering relief on inflation,sample,gold,0.6927149295806885,0.22008119523525238,0.08720393478870392,positive,0.4726337343454361
+2023-06-04,OPEC+ agrees to extend production cuts deep into next year,sample,crude,0.8632048964500427,0.03650267422199249,0.10029244422912598,positive,0.8267022222280502
+2023-06-14,Fed holds rates steady but projects two more hikes this year,sample,bonds,0.5529080629348755,0.24281571805477142,0.20427624881267548,positive,0.31009234488010406
+2023-06-14,Fed holds rates steady but projects two more hikes this year,sample,gold,0.5529080629348755,0.24281571805477142,0.20427624881267548,positive,0.31009234488010406
+2023-06-14,Hawkish Fed pause disappoints investors hoping for dovish signal,sample,bonds,0.03591681644320488,0.82233726978302,0.14174596965312958,negative,-0.7864204533398151
+2023-06-14,Hawkish Fed pause disappoints investors hoping for dovish signal,sample,gold,0.03591681644320488,0.82233726978302,0.14174596965312958,negative,-0.7864204533398151
+2023-07-12,Inflation cools to lowest level in two years boosting risk appetite,sample,bonds,0.20029525458812714,0.7162588238716125,0.08344586938619614,negative,-0.5159635692834854
+2023-07-12,Inflation cools to lowest level in two years boosting risk appetite,sample,gold,0.20029525458812714,0.7162588238716125,0.08344586938619614,negative,-0.5159635692834854
+2023-07-26,Fed resumes hikes lifting rates to highest in over two decades,sample,bonds,0.8782603740692139,0.04608127474784851,0.0756584033370018,positive,0.8321790993213654
+2023-07-26,Fed resumes hikes lifting rates to highest in over two decades,sample,gold,0.8782603740692139,0.04608127474784851,0.0756584033370018,positive,0.8321790993213654
+2023-08-10,US inflation ticks higher as energy costs rebound,sample,bonds,0.2600725591182709,0.6832935810089111,0.0566338449716568,negative,-0.42322102189064026
+2023-08-10,US inflation ticks higher as energy costs rebound,sample,gold,0.2600722908973694,0.6832939386367798,0.05663386359810829,negative,-0.4232216477394104
+2023-09-05,Saudi Arabia extends voluntary oil output cut sending crude higher,sample,crude,0.46875452995300293,0.45703092217445374,0.07421456277370453,positive,0.011723607778549194
+2023-09-13,Core inflation eases even as headline CPI rises on fuel prices,sample,bonds,0.9042518734931946,0.05717585235834122,0.03857230395078659,positive,0.8470760211348534
+2023-09-13,Core inflation eases even as headline CPI rises on fuel prices,sample,gold,0.9042518734931946,0.05717585235834122,0.03857230395078659,positive,0.8470760211348534
+2023-09-20,Fed holds rates but signals higher for longer stance,sample,bonds,0.2809711992740631,0.5148349404335022,0.20419377088546753,negative,-0.2338637411594391
+2023-09-20,Fed holds rates but signals higher for longer stance,sample,gold,0.2809711992740631,0.5148349404335022,0.20419377088546753,negative,-0.2338637411594391
+2023-09-20,Powell warns rates may stay elevated well into next year,sample,bonds,0.5474241375923157,0.31735461950302124,0.13522124290466309,positive,0.23006951808929443
+2023-09-20,Powell warns rates may stay elevated well into next year,sample,gold,0.5474241375923157,0.31735461950302124,0.13522124290466309,positive,0.23006951808929443
+2023-10-05,Oil prices tumble on demand fears despite OPEC+ supply curbs,sample,crude,0.01764502003788948,0.9605250358581543,0.021829942241311073,negative,-0.9428800158202648
+2023-10-12,Hot inflation reading rattles bond market and lifts yields,sample,bonds,0.2266043871641159,0.698313295841217,0.07508230209350586,negative,-0.47170890867710114
+2023-10-12,Hot inflation reading rattles bond market and lifts yields,sample,gold,0.2266043871641159,0.698313295841217,0.07508230209350586,negative,-0.47170890867710114
+2023-10-19,Treasury yields surge toward five percent on hawkish Fed bets,sample,bonds,0.3918386399745941,0.5320615172386169,0.07609980553388596,negative,-0.14022287726402283
+2023-10-19,Treasury yields surge toward five percent on hawkish Fed bets,sample,gold,0.3918386399745941,0.5320615172386169,0.07609980553388596,negative,-0.14022287726402283
+2023-11-01,Fed keeps rates unchanged as Powell notes tighter financial conditions,sample,bonds,0.10654378682374954,0.7893574237823486,0.10409876704216003,negative,-0.6828136369585991
+2023-11-01,Fed keeps rates unchanged as Powell notes tighter financial conditions,sample,gold,0.10654378682374954,0.7893574237823486,0.10409876704216003,negative,-0.6828136369585991
+2023-11-01,Dovish tilt from Fed sparks relief rally in bonds,sample,bonds,0.6329450607299805,0.1990102231502533,0.16804467141628265,positive,0.4339348375797272
+2023-11-01,Dovish tilt from Fed sparks relief rally in bonds,sample,gold,0.6329450607299805,0.1990102231502533,0.16804467141628265,positive,0.4339348375797272
+2023-11-14,Softer than expected CPI fuels bets Fed is done hiking,sample,bonds,0.36690211296081543,0.38417404890060425,0.24892380833625793,negative,-0.01727193593978882
+2023-11-14,Softer than expected CPI fuels bets Fed is done hiking,sample,gold,0.36690211296081543,0.38417404890060425,0.24892380833625793,negative,-0.01727193593978882
+2023-11-14,Cooling inflation sends bond yields tumbling and gold higher,sample,bonds,0.07529919594526291,0.8496269583702087,0.07507388293743134,negative,-0.7743277624249458
+2023-11-14,Cooling inflation sends bond yields tumbling and gold higher,sample,gold,0.07529919594526291,0.8496269583702087,0.07507388293743134,negative,-0.7743277624249458
+2023-11-30,OPEC+ agrees to additional voluntary cuts but market stays skeptical,sample,crude,0.3546479046344757,0.5372534394264221,0.10809867084026337,negative,-0.1826055347919464
+2023-12-13,Fed holds rates and pencils in three cuts for next year,sample,bonds,0.1445544958114624,0.11020965874195099,0.7452358603477478,neutral,0.034344837069511414
+2023-12-13,Fed holds rates and pencils in three cuts for next year,sample,gold,0.1445544958114624,0.11020965874195099,0.7452358603477478,neutral,0.034344837069511414
+2023-12-13,Powell signals pivot as Fed projects rate cuts ahead,sample,bonds,0.2947561740875244,0.38791027665138245,0.31733354926109314,negative,-0.09315410256385803
+2023-12-13,Powell signals pivot as Fed projects rate cuts ahead,sample,gold,0.2947561740875244,0.38791027665138245,0.31733354926109314,negative,-0.09315410256385803
+2023-12-13,Gold jumps to record as dovish Fed weakens the dollar,sample,bonds,0.39037954807281494,0.4914745092391968,0.11814594268798828,negative,-0.10109496116638184
+2023-12-13,Gold jumps to record as dovish Fed weakens the dollar,sample,gold,0.39037954807281494,0.4914745092391968,0.11814594268798828,negative,-0.10109496116638184
+2024-01-11,US inflation rises more than forecast complicating cut timeline,sample,bonds,0.7742387056350708,0.17248894274234772,0.0532723106443882,positive,0.6017497628927231
+2024-01-11,US inflation rises more than forecast complicating cut timeline,sample,gold,0.7742387056350708,0.17248894274234772,0.0532723106443882,positive,0.6017497628927231
+2024-01-31,Fed holds steady and pushes back on early rate cut hopes,sample,bonds,0.5273104906082153,0.3346378207206726,0.13805165886878967,positive,0.19267266988754272
+2024-01-31,Fed holds steady and pushes back on early rate cut hopes,sample,gold,0.5273104906082153,0.3346378207206726,0.13805165886878967,positive,0.19267266988754272
+2024-01-31,Powell says March cut unlikely dashing dovish expectations,sample,bonds,0.049938734620809555,0.9027898907661438,0.04727139696478844,negative,-0.8528511561453342
+2024-01-31,Powell says March cut unlikely dashing dovish expectations,sample,gold,0.049938734620809555,0.9027898907661438,0.04727139696478844,negative,-0.8528511561453342
+2024-02-13,Hotter inflation print sends bond yields soaring and stocks lower,sample,bonds,0.05975445732474327,0.8656479120254517,0.07459758967161179,negative,-0.8058934547007084
+2024-02-13,Hotter inflation print sends bond yields soaring and stocks lower,sample,gold,0.05975445732474327,0.8656479120254517,0.07459758967161179,negative,-0.8058934547007084
+2024-03-01,OPEC+ extends voluntary output cuts through the second quarter,sample,crude,0.15441621840000153,0.6413865685462952,0.20419716835021973,negative,-0.48697035014629364
+2024-03-12,Sticky core inflation keeps Fed rate cut bets on hold,sample,bonds,0.3443843722343445,0.36353012919425964,0.29208552837371826,negative,-0.01914575695991516
+2024-03-12,Sticky core inflation keeps Fed rate cut bets on hold,sample,gold,0.3443843722343445,0.36353012919425964,0.29208552837371826,negative,-0.01914575695991516
+2024-03-20,Fed holds rates and maintains outlook for three cuts this year,sample,bonds,0.06847558170557022,0.13776694238185883,0.793757438659668,neutral,-0.0692913606762886
+2024-03-20,Fed holds rates and maintains outlook for three cuts this year,sample,gold,0.06847558170557022,0.13776694238185883,0.793757438659668,neutral,-0.0692913606762886
+2024-03-20,Powell downplays recent inflation upside as bumps in the road,sample,bonds,0.05925174430012703,0.7537451982498169,0.1870030015707016,negative,-0.6944934539496899
+2024-03-20,Powell downplays recent inflation upside as bumps in the road,sample,gold,0.05925174430012703,0.7537451982498169,0.1870030015707016,negative,-0.6944934539496899
+2024-03-20,Gold climbs to fresh record after reassuring Fed meeting,sample,bonds,0.783693790435791,0.06659797579050064,0.14970830082893372,positive,0.7170958146452904
+2024-03-20,Gold climbs to fresh record after reassuring Fed meeting,sample,gold,0.783693790435791,0.06659797579050064,0.14970830082893372,positive,0.7170958146452904
+2024-04-05,Oil rallies to five month high on tight supply and geopolitical risk,sample,crude,0.6945714950561523,0.25904586911201477,0.04638261720538139,positive,0.4355256259441376
+2024-04-10,Inflation surprises to the upside again pushing back cut expectations,sample,bonds,0.25190305709838867,0.690306544303894,0.05779041722416878,negative,-0.43840348720550537
+2024-04-10,Inflation surprises to the upside again pushing back cut expectations,sample,gold,0.25190305709838867,0.690306544303894,0.05779041722416878,negative,-0.43840348720550537
+2024-04-10,Yields spike as strong CPI slashes odds of a June rate cut,sample,bonds,0.38053998351097107,0.4914011061191559,0.12805889546871185,negative,-0.11086112260818481
+2024-04-10,Yields spike as strong CPI slashes odds of a June rate cut,sample,gold,0.38053998351097107,0.4914011061191559,0.12805889546871185,negative,-0.11086112260818481
+2024-05-01,Fed leaves rates unchanged and flags lack of progress on inflation,sample,bonds,0.012244433164596558,0.947766900062561,0.0399886816740036,negative,-0.9355224668979645
+2024-05-01,Fed leaves rates unchanged and flags lack of progress on inflation,sample,gold,0.012244433164596558,0.947766900062561,0.0399886816740036,negative,-0.9355224668979645
+2024-05-01,Powell rules out further hikes calming nervous markets,sample,bonds,0.11143272370100021,0.7010191679000854,0.18754804134368896,negative,-0.5895864441990852
+2024-05-01,Powell rules out further hikes calming nervous markets,sample,gold,0.11143272370100021,0.7010191679000854,0.18754804134368896,negative,-0.5895864441990852
+2024-05-15,Cooler inflation data revives hopes for rate cuts later this year,sample,bonds,0.820891261100769,0.09885027259588242,0.08025854825973511,positive,0.7220409885048866
+2024-05-15,Cooler inflation data revives hopes for rate cuts later this year,sample,gold,0.820891261100769,0.09885027259588242,0.08025854825973511,positive,0.7220409885048866
+2024-05-15,Softer CPI lifts gold and pulls Treasury yields lower,sample,bonds,0.0878918394446373,0.8803046345710754,0.031803518533706665,negative,-0.7924127951264381
+2024-05-15,Softer CPI lifts gold and pulls Treasury yields lower,sample,gold,0.0878918394446373,0.8803046345710754,0.031803518533706665,negative,-0.7924127951264381
+2024-06-02,OPEC+ agrees to gradually unwind some output cuts from autumn,sample,crude,0.8582249283790588,0.05889163911342621,0.08288335800170898,positive,0.7993332892656326
+2024-06-03,Crude slides as OPEC+ plan to raise output spooks oil bulls,sample,crude,0.029071751981973648,0.9141148328781128,0.05681343004107475,negative,-0.8850430808961391
+2024-06-12,Fed holds rates and now projects just one cut this year,sample,bonds,0.054459281265735626,0.23023729026317596,0.7153034210205078,neutral,-0.17577800899744034
+2024-06-12,Fed holds rates and now projects just one cut this year,sample,gold,0.054459281265735626,0.23023729026317596,0.7153034210205078,neutral,-0.17577800899744034
+2024-06-12,Encouraging inflation report offsets hawkish Fed dot plot,sample,bonds,0.8113756775856018,0.08440297096967697,0.10422135889530182,positive,0.7269727066159248
+2024-06-12,Encouraging inflation report offsets hawkish Fed dot plot,sample,gold,0.8113756775856018,0.08440297096967697,0.10422135889530182,positive,0.7269727066159248
+2024-06-12,Gold steady as cooler CPI battles hawkish Fed projections,sample,bonds,0.27920064330101013,0.5373438000679016,0.18345557153224945,negative,-0.2581431567668915
+2024-06-12,Gold steady as cooler CPI battles hawkish Fed projections,sample,gold,0.27920064330101013,0.5373438000679016,0.18345557153224945,negative,-0.2581431567668915
+2023-01-12,US inflation slows for a sixth straight month easing price pressures,sample,bonds,0.14093005657196045,0.827606737613678,0.031463172286748886,negative,-0.6866766810417175
+2023-01-12,US inflation slows for a sixth straight month easing price pressures,sample,gold,0.14093005657196045,0.827606737613678,0.031463172286748886,negative,-0.6866766810417175
+2023-01-18,Gold shines as dollar weakens on softer inflation outlook,sample,bonds,0.09819018840789795,0.8730252385139465,0.028784578666090965,negative,-0.7748350501060486
+2023-01-18,Gold shines as dollar weakens on softer inflation outlook,sample,gold,0.09819018840789795,0.8730252385139465,0.028784578666090965,negative,-0.7748350501060486
+2023-08-01,Oil steadies near multi month high on tightening global supply,sample,bonds,0.7286984324455261,0.19978143274784088,0.071520134806633,positive,0.5289169996976852
+2023-08-01,Oil steadies near multi month high on tightening global supply,sample,crude,0.7286984324455261,0.19978143274784088,0.071520134806633,positive,0.5289169996976852
+2023-08-01,Oil steadies near multi month high on tightening global supply,sample,gold,0.7286984324455261,0.19978143274784088,0.071520134806633,positive,0.5289169996976852
+2023-12-06,Crude slumps as record US output overshadows OPEC+ cuts,sample,crude,0.027201998978853226,0.9491243958473206,0.02367364801466465,negative,-0.9219223968684673
+2024-02-05,Treasury yields climb as strong jobs data trims rate cut bets,sample,bonds,0.21262110769748688,0.6466167569160461,0.1407620757818222,negative,-0.43399564921855927
+2024-02-05,Treasury yields climb as strong jobs data trims rate cut bets,sample,gold,0.21262110769748688,0.6466167569160461,0.1407620757818222,negative,-0.43399564921855927
