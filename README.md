@@ -1,4 +1,5 @@
 # 📈 Macro Event Sentiment & Market Reaction Analyzer
+App--> https://macro-sentiment-analyzer-tyvcixtqox6fkuty9uhske.streamlit.app/
 
 > An NLP pipeline that scores financial-news sentiment with **FinBERT** and runs an **event study** on how crude oil, gold, and US Treasury futures *actually* reacted afterwards — visualized in an interactive Streamlit dashboard.
 
@@ -22,16 +23,6 @@ Financial headlines carry sentiment — but does that sentiment actually *predic
 5. **Report** directional hit-rates, average moves by sentiment bucket, and statistical significance — all in a Streamlit dashboard.
 
 The honest headline finding (see [`FINDINGS.md`](FINDINGS.md)): **sentiment alone is a weak, mostly-priced-in signal** — which is exactly the nuanced, defensible story you want to tell in an interview.
-
----
-
-## Dashboard preview
-
-![Dashboard screenshot](assets/dashboard.png)
-
-> _Run the app and drop a screenshot here (`assets/dashboard.png`) — a single screenshot in the README makes the project look 10× more finished._
-
----
 
 ## Architecture
 
@@ -165,3 +156,4 @@ Python · HuggingFace Transformers (FinBERT) · PyTorch · pandas / NumPy / SciP
 MIT — see [`LICENSE`](LICENSE). Update the copyright line with your name before publishing.
 
 > **Disclaimer:** research/educational project only. Nothing here is investment advice.
+Developer --> Aryan Vijay Dubey 
