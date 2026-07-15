@@ -1,0 +1,22 @@
+# Core data / numerics
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+
+# Sentiment model (FinBERT)
+torch>=2.0
+transformers>=4.30
+
+# Market data
+yfinance>=0.2.40
+
+# Dashboard
+streamlit>=1.30
+plotly>=5.18
+
+# Live headline fetching (NewsAPI / GDELT)
+requests>=2.31
+
+# Misc
+tqdm>=4.65
+python-dateutil>=2.8

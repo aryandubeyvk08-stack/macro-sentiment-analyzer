@@ -1,0 +1,33 @@
+date,event_type,description
+2023-02-01,FOMC,Fed rate decision (+25 bps to 4.50-4.75%)
+2023-02-14,CPI,US CPI release (January 2023)
+2023-03-22,FOMC,Fed rate decision (+25 bps to 4.75-5.00%)
+2023-04-02,OPEC,OPEC+ surprise voluntary output cut announced
+2023-04-12,CPI,US CPI release (March 2023)
+2023-05-03,FOMC,Fed rate decision (+25 bps to 5.00-5.25%)
+2023-05-10,CPI,US CPI release (April 2023)
+2023-06-04,OPEC,OPEC+ ministerial meeting - cuts extended
+2023-06-14,FOMC,Fed rate decision (hold at 5.00-5.25%)
+2023-07-12,CPI,US CPI release (June 2023)
+2023-07-26,FOMC,Fed rate decision (+25 bps to 5.25-5.50%)
+2023-08-10,CPI,US CPI release (July 2023)
+2023-09-13,CPI,US CPI release (August 2023)
+2023-09-20,FOMC,Fed rate decision (hold at 5.25-5.50%)
+2023-10-12,CPI,US CPI release (September 2023)
+2023-11-01,FOMC,Fed rate decision (hold at 5.25-5.50%)
+2023-11-14,CPI,US CPI release (October 2023)
+2023-11-30,OPEC,OPEC+ ministerial meeting - additional voluntary cuts
+2023-12-12,CPI,US CPI release (November 2023)
+2023-12-13,FOMC,Fed rate decision (hold; dovish dot plot)
+2024-01-11,CPI,US CPI release (December 2023)
+2024-01-31,FOMC,Fed rate decision (hold at 5.25-5.50%)
+2024-02-13,CPI,US CPI release (January 2024)
+2024-03-03,OPEC,OPEC+ extends voluntary cuts into Q2
+2024-03-12,CPI,US CPI release (February 2024)
+2024-03-20,FOMC,Fed rate decision (hold; three cuts projected)
+2024-04-10,CPI,US CPI release (March 2024)
+2024-05-01,FOMC,Fed rate decision (hold at 5.25-5.50%)
+2024-05-15,CPI,US CPI release (April 2024)
+2024-06-02,OPEC,OPEC+ agrees to gradually unwind output cuts
+2024-06-12,FOMC,Fed rate decision (hold; one cut projected)
+2024-06-12,CPI,US CPI release (May 2024)
